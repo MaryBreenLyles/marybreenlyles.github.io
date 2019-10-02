@@ -36,7 +36,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon icon-keyboard" >
-                    <i className="icon-keyboard" />
+                    <i className="icon-heart-outline" />
                 </span>
                 <div className="desc">
                     <h3>Web Development, General Programming </h3>
@@ -47,11 +47,11 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-rocket" />
+                    <i className="icon-study" />
                 </span>
                 <div className="desc">
                     <h3>Mechanical Engineering and Physics</h3>
-                    <p>My background is mostly in these two fields. I've done some pretty fun stuff in my internships and research, including contributing to the restoration of a sick 500 keV Van de Graaff powered proton accelerator!</p>
+                    <p>My background is mostly in these two fields, with my Bachelor's in Physics and Master's in Mechanical Engineering. I've done some pretty fun stuff in my internships and research, including contributing to the restoration of a sick 500 keV Van de Graaff powered proton accelerator! I wrote my undergraduate honors thesis on the accelerator's bending electromagnet :D</p>
                 </div>
                 </div>
             </div>
