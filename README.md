@@ -7,7 +7,7 @@
 $ npm run build
 ```
 
-3) Copy/paste contents of the new build folder from the Source branch into the /public/ folder of the Master branch
+3) Copy/paste contents of the new build folder from the Source branch into the main directory of the Master branch
 
 
 
