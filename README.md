@@ -1,3 +1,16 @@
+## Updating the github page:
+
+1) Save changes to the Source branch
+
+2) With the Source branch still checked out, run the build command inside ~/Desktop/Repos/marybreenlyles.github.io
+```
+$ npm run build
+```
+
+3) Copy/paste contents of the new build folder from the Source branch into the /public/ folder of the Master branch
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
