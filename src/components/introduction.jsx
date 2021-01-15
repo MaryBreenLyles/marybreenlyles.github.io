@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/skating.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/background.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -22,7 +22,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/skating.jpg)'}}>
+             {/* <li style={{backgroundImage: 'url(images/skating.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -30,13 +30,13 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I like doing<br /> things !</h1>
-                          {/* <p><a className="btn btn-primary btn-learn" href="https://github.com/MaryBreenLyles" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p> */}
+                          <p><a className="btn btn-primary btn-learn" href="https://github.com/MaryBreenLyles" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-              </li>
+              </li>*/}
             </ul>
           </div>
         </section>
